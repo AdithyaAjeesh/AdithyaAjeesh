@@ -1,5 +1,15 @@
 ## Hi there 👋
-I am Adithya Ajeesh and I am a Flutter Dev 
+I am Adithya Ajeesh and I am a Flutter Dev.
+I am Currently working on a Social Media Application as my Main Project 
+
+I Am Experianced with
+Flutter,
+Dart,
+Rest,
+Firebase,
+Provider,
+Get x.
+
 <!--
 **AdithyaAjeesh/AdithyaAjeesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

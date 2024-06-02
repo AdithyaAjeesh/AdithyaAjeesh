@@ -2,12 +2,12 @@
 I am Adithya Ajeesh and I am a Flutter Dev.
 I am Currently working on a Social Media Application as my Main Project 
 
-I Am Experianced with
+I Am Experianced in
 Flutter,
 Dart,
 Rest,
 Firebase,
-Provider,
+Provider and
 Get x.
 
 <!--

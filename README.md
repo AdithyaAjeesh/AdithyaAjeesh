@@ -5,10 +5,9 @@ I am Currently working on a Social Media Application as my Main Project
 I Am Experianced in
 Flutter,
 Dart,
-Rest,
-Firebase,
-Provider and
-Get x.
+Rest API,
+Firebase and
+Provider
 
 <!--
 **AdithyaAjeesh/AdithyaAjeesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
